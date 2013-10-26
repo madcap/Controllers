@@ -5,7 +5,7 @@
 		id="4072957c-49c6-473c-8676-6b60c94a7e82"
 		mapName="Magic 2014 by Madcap"
 		enabled="True"
-		mapDescription=""
+		mapDescription="Magic 2014 Touch Controls by Madcap&#xD;&#xA;&#xD;&#xA;You can find the most up to date version of this controller as well as usage notes at:&#xD;&#xA;https://github.com/madcap/Controllers"
 		appName=""
 		mapCreateDate="-8588204776854775808"
 		delayMouseEvents="False"
@@ -68,7 +68,7 @@
 						controlType="ButtonSingle"
 						width="0.108108"
 						height="0.108108"
-						X="0.06230281"
+						X="0.0623028"
 						Y="0.0870871">
 						<HudControlElements>
 							<HudControlElement
@@ -100,8 +100,8 @@
 						controlType="ButtonSingle"
 						width="0.108108"
 						height="0.108108"
-						X="0.9566029"
-						Y="0.4350252">
+						X="0.954281"
+						Y="0.435025">
 						<HudControlElements>
 							<HudControlElement
 								id="9f4c39b6-67f4-4830-8c6f-ea64b6e54622"
@@ -113,7 +113,7 @@
 								canvasScale="1.5"
 								scale="1"
 								transparency="1"
-								color="00B050"
+								color="008000"
 								sensitivity="0"
 								triggerrate="Once"
 								glyph="glyph_next">
@@ -133,7 +133,7 @@
 						width="0.108108"
 						height="0.108108"
 						X="0.956617"
-						Y="0.5776863">
+						Y="0.577686">
 						<HudControlElements>
 							<HudControlElement
 								id="89aabc8b-68f2-4b1f-9c7c-92d9e8067233"
@@ -165,7 +165,7 @@
 						width="0.108108"
 						height="0.108108"
 						X="0.956654"
-						Y="0.2974447">
+						Y="0.297445">
 						<HudControlElements>
 							<HudControlElement
 								id="8257c862-023f-4a79-9da9-e49dcfe24973"
@@ -194,16 +194,16 @@
 					<HudControl
 						id="56153f51-4ee6-4be0-a105-b7f406f24c47"
 						controlType="Dpad"
-						width="0.2368888"
-						height="0.2368888"
-						X="0.07031255"
-						Y="0.5237386">
+						width="0.236889"
+						height="0.236889"
+						X="0.0703126"
+						Y="0.523739">
 						<HudControlElements>
 							<HudControlElement
 								id="065bb421-4691-4d87-9eee-d2370e87cf0b"
 								type="DpadUp"
-								width="0.3447501"
-								height="0.3447501"
+								width="0.3447499"
+								height="0.34475"
 								x="0"
 								y="-0.33"
 								canvasScale="1.2"
@@ -224,8 +224,8 @@
 							<HudControlElement
 								id="208e1dc8-9091-4338-b5de-1e8d40e3d906"
 								type="DpadDown"
-								width="0.3447501"
-								height="0.3447501"
+								width="0.3447499"
+								height="0.34475"
 								x="0"
 								y="0.33"
 								canvasScale="1.2"
@@ -246,8 +246,8 @@
 							<HudControlElement
 								id="631a5847-675d-4a68-8ac7-0d977affdb56"
 								type="DpadLeft"
-								width="0.3447501"
-								height="0.3447501"
+								width="0.34475"
+								height="0.34475"
 								x="-0.33"
 								y="0"
 								canvasScale="1.2"
@@ -268,8 +268,8 @@
 							<HudControlElement
 								id="df6c6a80-c238-4882-8a9d-e5733cd23506"
 								type="DpadRight"
-								width="0.3447501"
-								height="0.3447501"
+								width="0.3447499"
+								height="0.34475"
 								x="0.33"
 								y="0"
 								canvasScale="1.2"
@@ -294,8 +294,8 @@
 						controlType="ButtonSingle"
 						width="0.106825"
 						height="0.106825"
-						X="0.9570317"
-						Y="0.7151341">
+						X="0.957032"
+						Y="0.715134">
 						<HudControlElements>
 							<HudControlElement
 								id="ead276e0-2a0a-445d-9cb3-8cd04bb4e449"
@@ -324,10 +324,10 @@
 					<HudControl
 						id="d790b40a-1f76-4135-ba55-820d8b4db62b"
 						controlType="ButtonSingle"
-						width="0.1068249"
-						height="0.1068249"
-						X="0.06328122"
-						Y="0.2091988">
+						width="0.106825"
+						height="0.106825"
+						X="0.0632812"
+						Y="0.209199">
 						<HudControlElements>
 							<HudControlElement
 								id="44ff9319-13fd-4a44-be7b-714c926bf71c"
@@ -356,9 +356,9 @@
 					<HudControl
 						id="af3fb879-aa1b-43fb-b881-ebbe8396d2ac"
 						controlType="ButtonSingle"
-						width="0.06268222"
-						height="0.06268222"
-						X="0.03173375"
+						width="0.0626822"
+						height="0.0626822"
+						X="0.0317338"
 						Y="0.329446">
 						<HudControlElements>
 							<HudControlElement
@@ -388,10 +388,10 @@
 					<HudControl
 						id="791c159f-1444-4a6d-b661-923822d4ed6e"
 						controlType="ButtonSingle"
-						width="0.05539359"
-						height="0.05539359"
-						X="0.07817336"
-						Y="0.3309038">
+						width="0.0553936"
+						height="0.0553936"
+						X="0.0781734"
+						Y="0.330904">
 						<HudControlElements>
 							<HudControlElement
 								id="3621a27d-793c-41e6-96d2-0a0472b895fa"
@@ -420,10 +420,10 @@
 					<HudControl
 						id="bb4d0d99-7b6a-4c9a-a90d-88ba7ab9185f"
 						controlType="Toggle"
-						width="0.08309038"
-						height="0.08309038"
+						width="0.0830904"
+						height="0.0830904"
 						X="0.122291"
-						Y="0.3294461">
+						Y="0.329446">
 						<HudControlElements>
 							<HudControlElement
 								id="587cd401-f281-428e-a62f-2465c4630f05"

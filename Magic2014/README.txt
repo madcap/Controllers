@@ -1,7 +1,5 @@
 Magic 2014 Touch Controls by Madcap
-Intended for Gestureworks Gameplay: https://gameplay.gestureworks.com/
 
-Enhanced touch screen capabilities for Magic 2014
 You can find the most up to date version of this controller as well as usage notes at:
 https://github.com/madcap/Controllers
 
